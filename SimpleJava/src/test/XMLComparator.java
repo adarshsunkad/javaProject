@@ -75,7 +75,7 @@ public class XMLComparator {
         	}
         }
         System.out.println("===============================");
-        System.out.println("Total differences : " + totalDifferences);
+        System.out.println("Total difference : " + totalDifferences);
         System.out.println("================================");
         
     }
